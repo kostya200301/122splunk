@@ -1,0 +1,13 @@
+# Target labels
+ lmdb
+# Source files and their labels
+/home/kostya200300/splunk1.1/project/build/CMakeFiles/lmdb
+/home/kostya200300/splunk1.1/project/build/CMakeFiles/lmdb.rule
+/home/kostya200300/splunk1.1/project/build/CMakeFiles/lmdb-complete.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-build.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-configure.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-download.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-install.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-mkdir.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-patch.rule
+/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-update.rule

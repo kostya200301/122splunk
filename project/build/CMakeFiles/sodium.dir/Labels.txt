@@ -1,0 +1,13 @@
+# Target labels
+ sodium
+# Source files and their labels
+/home/kostya200300/splunk1.1/project/build/CMakeFiles/sodium
+/home/kostya200300/splunk1.1/project/build/CMakeFiles/sodium.rule
+/home/kostya200300/splunk1.1/project/build/CMakeFiles/sodium-complete.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-build.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-configure.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-download.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-install.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-mkdir.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-patch.rule
+/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-update.rule

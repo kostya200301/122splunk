@@ -1,0 +1,3 @@
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/CMakeFiles/sodium-populate.dir
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/CMakeFiles/edit_cache.dir
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/CMakeFiles/rebuild_cache.dir

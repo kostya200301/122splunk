@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/CMakeFiles/sodium"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/CMakeFiles/sodium.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/CMakeFiles/sodium-complete.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-build.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-configure.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-download.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-install.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-mkdir.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-patch.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/sodium/src/sodium-stamp/sodium-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sodium"
+		],
+		"name" : "sodium"
+	}
+}

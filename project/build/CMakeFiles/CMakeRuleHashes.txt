@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+c11261dd0588e42571f841b68a259f87 external/sodium/src/sodium-stamp/sodium-configure
+600a20d725175afaa786a77c0538d3f6 external/sodium/src/sodium-stamp/sodium-download
+26e7dadf8be1643e86206ab20e02a285 external/sodium/src/sodium-stamp/sodium-mkdir
+6d983fdeafd3413b457025cb95e14a2c external/sodium/src/sodium-stamp/sodium-patch

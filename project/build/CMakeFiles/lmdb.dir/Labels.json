@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/CMakeFiles/lmdb"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/CMakeFiles/lmdb.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/CMakeFiles/lmdb-complete.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-build.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-configure.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-download.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-install.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-mkdir.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-patch.rule"
+		},
+		{
+			"file" : "/home/kostya200300/splunk1.1/project/build/external/lmdb/src/lmdb-stamp/lmdb-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lmdb"
+		],
+		"name" : "lmdb"
+	}
+}

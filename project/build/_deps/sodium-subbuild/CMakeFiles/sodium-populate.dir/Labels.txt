@@ -1,0 +1,14 @@
+# Target labels
+ sodium-populate
+# Source files and their labels
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/CMakeFiles/sodium-populate
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/CMakeFiles/sodium-populate.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/CMakeFiles/sodium-populate-complete.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-build.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-configure.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-download.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-install.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-mkdir.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-patch.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-test.rule
+/home/kostya200300/splunk1.1/project/build/_deps/sodium-subbuild/sodium-populate-prefix/src/sodium-populate-stamp/sodium-populate-update.rule
